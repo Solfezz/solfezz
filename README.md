@@ -102,7 +102,9 @@ to Vue.js across an entire ERP platform.
 ✅ Laravel · Vue.js · AWS · C# .NET · AI Integration
 
 ---
-
+### 🌀 About Solfezz  
+Solfezz is my personal engineering brand — a space where I build tools, systems, and experiments that reflect my approach to software architecture, automation, and AI‑driven operations.
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=solfezz&show_icons=true&theme=dark&hide_border=true" />
 </p>
