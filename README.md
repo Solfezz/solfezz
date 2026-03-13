@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Solfezz 👋</h1>
+<h1 align="center">Hey, I'm Van — Solfezz is my development brand </h1>
 
 <p align="center">
   Full Stack Engineer & Systems Architect
